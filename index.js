@@ -4,7 +4,7 @@ import connectDb from "./db/connectDb.js";
 import authRouter from "./routes/auth.js";
 import userRoute from "./routes/users.js";
 import hotelRoute from "./routes/hotels.js";
-import roomRoute from './routes/room.js'
+import roomRoute from "./routes/room.js";
 import cookieParser from "cookie-parser";
 import cors from "cors";
 
